@@ -1,0 +1,40 @@
+* {
+    text-align: center;
+    font-family: Monaco, 'Lucida Console', 'Courier New'
+}
+
+body {
+    background-color: aliceblue;
+}
+
+.border {
+    border-style: solid;
+}
+h1 {
+    background-color: darkblue;
+    color: white;
+    font-size: 50px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.margin {
+    margin-bottom: 300px;
+}
+
+.margin-two {
+    margin-top: 200px;
+}
+
+
+
+
+
+
